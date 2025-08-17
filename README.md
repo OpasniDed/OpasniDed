@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=opasni&label=Profile%20views&color=fb00ff&style=flat" alt="opasni" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opasni&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 - Im currently working on [my first API "UntitledCustomRoles"](https://github.com/OpasniDed/UntitledCustomRoles)  
