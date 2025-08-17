@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=opasnided&label=Profile%20views&color=fb00ff&style=flat" alt="opasnided" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opasnided&theme=radical" alt="GitHub Streak" />
 </p>
 
 - Im currently working on [my first API "UntitledCustomRoles"](https://github.com/OpasniDed/UntitledCustomRoles)  
