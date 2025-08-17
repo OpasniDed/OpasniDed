@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-lzhedmitry2-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> lzhedmitry2
+  <img src="https://img.shields.io/badge/Discord-lzhedmitry2-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <br>
   <a href="https://www.reddit.com/user/opasnided/" target="_blank"><img src="https://img.shields.io/badge/Reddit-u/opasnided-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </p>
 
