@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=opasni&show_icons=true&theme=dracula&title_color=ff79c6&text_color=8be9fd&bg_color=282a36&locale=en" alt="opasni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=opasnided&show_icons=true&theme=dracula&title_color=ff79c6&text_color=8be9fd&bg_color=282a36&locale=en" alt="opasnided" />
 </p>
