@@ -1,7 +1,7 @@
 <h3 align="center">Im writing Plugins for SCP SL on Exiled Framework</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=opasni&label=Profile%20views&color=fb00ff&style=flat" alt="opasni" />
+  <img src="https://komarev.com/ghpvc/?username=opasnided&label=Profile%20views&color=fb00ff&style=flat" alt="opasnided" />
 </p>
 
 - Im currently working on [my first API "UntitledCustomRoles"](https://github.com/OpasniDed/UntitledCustomRoles)  
