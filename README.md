@@ -1,4 +1,4 @@
-<h3 align="center">Im writing Plugins for SCP SL on Exiled Framework</h3>
+<h3 align="center">Im programming Plugins for SCP SL on Exiled Framework</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=opasnided&label=Profile%20views&color=fb00ff&style=flat" alt="opasnided" />
