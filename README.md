@@ -16,14 +16,14 @@
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My contacts:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-lzhedmitry2-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <br>
   <a href="https://www.reddit.com/user/opasnided/" target="_blank"><img src="https://img.shields.io/badge/Reddit-u/opasnided-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
