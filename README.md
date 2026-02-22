@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=opasnided&label=Profile%20views&color=fb00ff&style=flat" alt="opasnided" />
 </p>
 
-- Im currently working on [my first API "UntitledCustomRoles"](https://github.com/OpasniDed/UntitledCustomRoles)  
-
-
 <h3 align="left">What Im learning:</h3>
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
