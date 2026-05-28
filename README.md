@@ -4,6 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=opasnided&label=Profile%20views&color=fb00ff&style=flat" alt="opasnided" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/61/d5/4e/61d54e952975bad0c9aad044a054d3f5.gif" alt="Cool GIF" width="450"/>
+</p>
+
 <h3 align="left">What Im learning:</h3>
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
